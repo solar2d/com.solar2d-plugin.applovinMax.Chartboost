@@ -6,6 +6,7 @@ local metadata =
 		staticLibs = { "ChartboostAdapter" },
 		frameworks = { "ChartboostSDK" },
 		frameworksOptional = {},
+		usesSwift = true,
 	},
 }
 
